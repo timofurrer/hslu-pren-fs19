@@ -1,0 +1,5 @@
+# vim
+*.swp
+
+# Python bytecode
+__pycache__/

@@ -1,0 +1,2 @@
+pytest
+pytest-logger
