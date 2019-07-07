@@ -4,7 +4,7 @@ from setuptools import find_packages, setup
 
 
 required = [
-    "picamera==1.13",
+    # "picamera==1.13",
     "numpy==1.16.2",
     "opencv-contrib-python==3.4.4.19",
     "pyserial==3.4",
