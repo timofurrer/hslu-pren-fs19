@@ -14,7 +14,7 @@ required = [
     "Keras==2.2.4",
     "Keras-Applications==1.0.7",
     "Keras-Preprocessing==1.0.9",
-    "tensorflow==1.13.1",
+    "tensorflow==1.15.4",
     "tensorflow-estimator==1.13.0"
 ]
 
