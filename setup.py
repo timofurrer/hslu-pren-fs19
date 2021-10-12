@@ -6,7 +6,7 @@ from setuptools import find_packages, setup
 required = [
     # "picamera==1.13",
     "numpy==1.16.2",
-    "opencv-contrib-python==3.4.4.19",
+    "opencv-contrib-python==3.4.7.28",
     "pyserial==3.4",
     "pytesseract",
     "RPi.GPIO",
